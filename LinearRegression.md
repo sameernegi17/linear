@@ -34,7 +34,7 @@ Alpha in above equation is the learning rate. It’s like how large the steps yo
 
 Image Represent the Gradient Descent
 
-![alt text](./Images/pic_18.PNG)
+![alt text](./Images/pic_18.png)
 
 ## Normal Equation
 As gradient Descent is iterative apporach. The normal equations find the value of parameters(a) in one go.
