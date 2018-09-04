@@ -39,6 +39,7 @@ As gradient Descent is iterative apporach. The normal equations find the value o
 
 ![alt text](./Images/pic_7.jpg)
 
+The derivation is explained in the link [https://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-regression]
 ## Comparison between two approaches
 
 ![alt text](./Images/pic_8.jpg)
