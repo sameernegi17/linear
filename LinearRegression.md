@@ -32,6 +32,10 @@ Imagine you are standing on a hill top and you want to take a small step to the 
 
 Alpha in above equation is the learning rate. It’s like how large the steps you want to take while descending down the hill. If you take steps too small, it will take long time to descend down the hill. If you take steps too large you may overshoot the local minima.
 
+Image Represent the Gradient Descent
+
+![alt text](./Images/pic_18.PNG)
+
 ## Normal Equation
 As gradient Descent is iterative apporach. The normal equations find the value of parameters(a) in one go.
 
